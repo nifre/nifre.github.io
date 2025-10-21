@@ -1,6 +1,6 @@
 # 🌐 Sito Web: Oasis – La Band che ha Definito un’Epoca
 
-Questo progetto è stato realizzato come esercitazione per l’esame del corso di Informatica (A.A. 2025/2026).  
+Questo progetto è stato realizzato come esercitazione per l’esame del corso di Ingegneria Informatica (A.A. 2025/2026).  
 Il sito è dedicato alla band britannica **Oasis** e ai fratelli **Liam e Noel Gallagher**, figure centrali del Britpop degli anni ‘90.  
 
 ---
