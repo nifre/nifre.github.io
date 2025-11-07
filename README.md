@@ -49,6 +49,4 @@ Lo script è incluso in tutte le pagine HTML e soddisfa il requisito di interatt
   - [https://devdocs.io/](https://devdocs.io/)
 
 ---
-
-
-© 2025 — Progetto didattico realizzato per scopi universitari.
+NICCOLO' FRENI IN0501406
